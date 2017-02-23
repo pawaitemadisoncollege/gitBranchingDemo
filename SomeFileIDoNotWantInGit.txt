@@ -1,3 +1,0 @@
-Some info I don't want checked into git. 
-
-Maybe it has my super secret password in it or maybe it is my workspace file...
