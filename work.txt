@@ -1,7 +1,7 @@
 My important project file.
 With all of my hard work.
 
-A *** bug **** that needs to be fixed. 
+A bug that has been fixed.
 
 Doing some work on dev.
 More work.
