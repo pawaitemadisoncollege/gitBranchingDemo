@@ -1,4 +1,11 @@
 My important project file.
 With all of my hard work.
+
 A bug that has been fixed. 
 More hard work.
+More hard work.
+
+Work for dev. 
+More work for dev.
+Yet more work after I fixed the bug and came back here to continue working. 
+
